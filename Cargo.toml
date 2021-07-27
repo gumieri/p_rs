@@ -1,0 +1,9 @@
+[package]
+name = "p"
+version = "0.1.0"
+authors = ["Rafael Gumieri <rgumieri@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+git2 = "0.13.20"
+semver = "1.0.3"
